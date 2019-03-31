@@ -1,0 +1,6 @@
+Year null
+Manufacture null
+Model null
+Model Number null
+Price null
+Description:null
